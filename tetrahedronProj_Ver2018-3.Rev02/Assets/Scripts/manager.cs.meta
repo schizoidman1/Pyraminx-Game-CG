@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: dd25622d1a3a870448e131a6dd9a101e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - triangulo: {fileID: 1169200176333810, guid: 38739fa6b71eaf741b3546114e2e802e,
+      type: 3}
+  - pivoBaseVermelho: {instanceID: 0}
+  - pivoBaseAmarelo: {instanceID: 0}
+  - pivoBaseVerde: {instanceID: 0}
+  - pivoBaseAzul: {instanceID: 0}
+  - pivoMeioVermelho: {instanceID: 0}
+  - pivoMeioVerde: {instanceID: 0}
+  - pivoMeioAzul: {instanceID: 0}
+  - pivoMeioAmarelo: {instanceID: 0}
+  - pivoTopoVermelho: {instanceID: 0}
+  - pivoTopoVerde: {instanceID: 0}
+  - pivoTopoAzul: {instanceID: 0}
+  - pivoTopoAmarelo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
